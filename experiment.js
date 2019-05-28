@@ -679,7 +679,7 @@ https://marinerougier.github.io/Expe6_RC_3appuis/RCmarine2.html
 if(is_compatible) {
   jsPsych.init({
       timeline: timeline,
-      preload_images: preloadimages,
+      preload_images: _.flattenDeep(preloadimages),
       max_load_time: 1000 * 500,
       exclusions: {
             min_width: 800,
