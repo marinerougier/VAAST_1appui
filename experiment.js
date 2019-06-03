@@ -64,7 +64,7 @@ if(!is_compatible) {
   var database = firebase.database();
 
   // id variables
-  var prolificID = jsPsych.data.getURLVariable("prolificID");
+  var prolificID = jsPsych.data.getURLVariable("PROLIFIC_PID");
   if(prolificID == null) {prolificID = "999";}
   var jspsych_id = jsPsych.randomization.randomID(15)
 
