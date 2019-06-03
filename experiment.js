@@ -690,7 +690,7 @@ if(is_compatible) {
       },
     on_finish: function() {
         saving_browser_events(completion = true);
-        window.location.href = "https://marinerougier.github.io/ECVAAST_RC/RCmarine_EC_VAAST.html?jspsych_id=" + jspsych_id + "&cond=" + "VAAST" 
+        window.location.href = "https://marinerougier.github.io/ECVAAST_RC/RCmarine_EC_VAAST.html?jspsych_id=" + jspsych_id + "&cond=" + "VAAST" +
         "&prolificID=" + prolificID + "&vaast_condition_approach=" + vaast_condition_approach + "&ColorGroup=" + ColorGroup;
     }
   });
