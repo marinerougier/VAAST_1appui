@@ -56,8 +56,8 @@ if(!is_compatible) {
 
 // firebase initialization ---------------------------------------------------------------
   var firebase_config = {
-    apiKey: "AIzaSyBwDr8n-RNCbBOk1lKIxw7AFgslXGcnQzM",
-    databaseURL: "https://marineexpe.firebaseio.com/"
+    apiKey: "AIzaSyAPTEPrT8V9T1-GouWXnW6jknK3brmagJs",
+    databaseURL: "https://AATRC.firebaseio.com/"
   };
 
   firebase.initializeApp(firebase_config);
