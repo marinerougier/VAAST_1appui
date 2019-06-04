@@ -57,7 +57,7 @@ if(!is_compatible) {
 // firebase initialization ---------------------------------------------------------------
   var firebase_config = {
     apiKey: "AIzaSyAPTEPrT8V9T1-GouWXnW6jknK3brmagJs",
-    databaseURL: "https://AATRC.firebaseio.com/"
+    databaseURL: "https://vaastiat.firebaseio.com/"
   };
 
   firebase.initializeApp(firebase_config);
