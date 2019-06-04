@@ -673,8 +673,6 @@ jsPsych.pluginAPI.preloadImages(vaast_instructions_images);
 jsPsych.pluginAPI.preloadImages(vaast_bg_filename);
 
 // timeline initiaization ---------------------------------------------------------------
-https://marinerougier.github.io/Expe6_RC_3appuis/RCmarine2.html
-
 
 if(is_compatible) {
   jsPsych.init({
