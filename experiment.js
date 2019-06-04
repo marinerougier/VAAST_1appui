@@ -476,7 +476,7 @@ var vaast_instructions_4 = {
     "<h1 class ='custom-title'> Task 1: Video Game task</h1>" +
     "<p class='instructions'>More precisely, you will have to: " +
     "<ul class='instructions'>" +
-    "<li><strong><b>Approach (move forward)</b> faces with a " + group_to_approach + " background by pressing thee Y key</strong></li>" +
+    "<li><strong><b>Approach (move forward)</b> faces with a " + group_to_approach + " background by pressing the Y key</strong></li>" +
     "<li><strong>Avoid (move backward)</b> faces with a " + group_to_avoid + " background by pressing the N key</strong></li>" +
     "</ul>" +
     "<p class='instructions'>Please read carefully and make sure that you memorize the instructions above. </p>" +
