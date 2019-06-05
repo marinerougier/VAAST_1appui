@@ -356,7 +356,7 @@ var save_vaast_trial = {
       "<br>" + 
       "<br>" + 
       "<u><b>WARNING:</u></b> Beware that some unpleasant images might potentially be presented during the experiment. " +
-      "These images might shock you (e.g., death images, sexual content, etc.). " +
+      "These images might shock you (e.g., death, sexual content, etc.). " +
       "<b>If you decide to start this study, it means that you give your free and informed consent to participate. </b>" +
       "<br>" +
       "<br>" + 
@@ -390,7 +390,7 @@ var Gene_Instr = {
     "<h1 class ='custom-title'> About this study...</h1>" +
     "<br>" +
     "<p class='instructions'> In this study, you will have to complete several tasks. " +
-    "The whole study should last around 30 minutes. Note that it is extremely important that " +
+    "The whole study should last around 25 minutes. Note that it is extremely important that " +
     "you remain <b>fully concentrated</b> during the entire study. </p>" +
     "<p class = 'continue-instructions'>Press <strong>space</strong> to" +
     " continue.</p>",
