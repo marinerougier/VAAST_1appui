@@ -353,10 +353,6 @@ var save_vaast_trial = {
       "In this study, you will have to <b>complete several tasks</b>. Note that we " +
       "will not collect any personally identifying information and that you can leave the experiment " +
       "at any moment. If you complete the experiment until the end, you will be retributed as stated on Prolific. " +
-      "<br>" + 
-      "<br>" + 
-      "<u><b>WARNING:</u></b> Beware that some unpleasant images might potentially be presented during the experiment. " +
-      "These images might shock you (e.g., death, sexual content, etc.). " +
       "<b>If you decide to start this study, it means that you give your free and informed consent to participate. </b>" +
       "<br>" +
       "<br>" + 
